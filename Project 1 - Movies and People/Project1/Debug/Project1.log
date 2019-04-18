@@ -1,0 +1,29 @@
+﻿  stdafx.cpp
+  Project1.cpp
+u:\academics\spring '19\eecs 2510\project1\project1\project1\movie.h(12): error C2065: 'ifstream': undeclared identifier
+u:\academics\spring '19\eecs 2510\project1\project1\project1\movie.h(12): error C2146: syntax error: missing ';' before identifier 'readFile'
+u:\academics\spring '19\eecs 2510\project1\project1\project1\movie.h(12): error C2065: 'readFile': undeclared identifier
+u:\academics\spring '19\eecs 2510\project1\project1\project1\movie.h(14): error C2065: 'string': undeclared identifier
+u:\academics\spring '19\eecs 2510\project1\project1\project1\movie.h(14): error C2146: syntax error: missing ';' before identifier 'movieInFile'
+u:\academics\spring '19\eecs 2510\project1\project1\project1\movie.h(14): error C2065: 'movieInFile': undeclared identifier
+u:\academics\spring '19\eecs 2510\project1\project1\project1\movie.h(14): error C2065: 'movieOutFile': undeclared identifier
+u:\academics\spring '19\eecs 2510\project1\project1\project1\movie.h(15): error C2065: 'string': undeclared identifier
+u:\academics\spring '19\eecs 2510\project1\project1\project1\movie.h(15): error C2146: syntax error: missing ';' before identifier 'title'
+u:\academics\spring '19\eecs 2510\project1\project1\project1\movie.h(15): error C2065: 'title': undeclared identifier
+u:\academics\spring '19\eecs 2510\project1\project1\project1\movie.h(15): error C2065: 'rating': undeclared identifier
+u:\academics\spring '19\eecs 2510\project1\project1\project1\movie.h(20): error C2065: 'movieInFile': undeclared identifier
+u:\academics\spring '19\eecs 2510\project1\project1\project1\movie.h(21): error C2065: 'movieOutFile': undeclared identifier
+u:\academics\spring '19\eecs 2510\project1\project1\project1\movie.h(23): error C2065: 'readFile': undeclared identifier
+u:\academics\spring '19\eecs 2510\project1\project1\project1\movie.h(23): error C2228: left of '.open' must have class/struct/union
+  u:\academics\spring '19\eecs 2510\project1\project1\project1\movie.h(23): note: type is 'unknown-type'
+u:\academics\spring '19\eecs 2510\project1\project1\project1\movie.h(23): error C2065: 'movieInFile': undeclared identifier
+u:\academics\spring '19\eecs 2510\project1\project1\project1\movie.h(25): error C2065: 'readFile': undeclared identifier
+u:\academics\spring '19\eecs 2510\project1\project1\project1\movie.h(25): error C2228: left of '.eof' must have class/struct/union
+  u:\academics\spring '19\eecs 2510\project1\project1\project1\movie.h(25): note: type is 'unknown-type'
+u:\academics\spring '19\eecs 2510\project1\project1\project1\movie.h(26): error C2065: 'readFile': undeclared identifier
+u:\academics\spring '19\eecs 2510\project1\project1\project1\movie.h(26): error C2065: 'title': undeclared identifier
+u:\academics\spring '19\eecs 2510\project1\project1\project1\movie.h(26): error C3861: 'getline': identifier not found
+u:\academics\spring '19\eecs 2510\project1\project1\project1\movie.h(31): error C2065: 'cout': undeclared identifier
+u:\academics\spring '19\eecs 2510\project1\project1\project1\movie.h(31): error C2065: 'title': undeclared identifier
+u:\academics\spring '19\eecs 2510\project1\project1\project1\movie.h(31): error C2065: 'endl': undeclared identifier
+u:\academics\spring '19\eecs 2510\project1\project1\project1\project1.cpp(16): error C3867: 'Movie::read': non-standard syntax; use '&' to create a pointer to member
